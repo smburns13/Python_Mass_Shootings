@@ -18,3 +18,6 @@ The project used python and Tableau. The following libraries were used in python
 * Os
 * Statsmodels.api
 * Warnings
+
+# Tableau Storyboard
+The Tableau storyboard presentation can be found [here](https://public.tableau.com/app/profile/stephanie.burns/viz/MassShootingintheUS_16851277701330/MassShootingsintheUS?publish=yes). 
